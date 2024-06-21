@@ -23,24 +23,24 @@ body{
 h1{
     font-size: 3rem;
     line-height: 1;
-    margin-top: 43px;
-    margin-bottom: 37px;
+    margin-top: 2.688rem;
+    margin-bottom: 2.313rem;
 }
 
 .container{
     background-color: white;
-    width: 503px;
-    padding-top: 46px;
-    padding-bottom: 64px;
-    padding-left:64px;
-    padding-right:64px;
+    width: 31.438rem;
+    padding-top: 2.875rem;
+    padding-bottom: 4rem;
+    padding-left:4rem;
+    padding-right:4rem;
     border-radius: 2rem;
 }
 
 .container__text{
     /* border: 1px solid black; */
     line-height: 1.5;
-    margin-bottom: 47px;
+    margin-bottom: 2.938rem;
     font-size: 1rem;
     font-weight: 4500;
 }
