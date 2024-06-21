@@ -62,5 +62,8 @@ button:hover{
     -webkit-box-shadow: 0px 14px 19px 0px rgba(247,202,197,1);
     -moz-box-shadow: 0px 14px 19px 0px rgba(247,202,197,1);
     box-shadow: 0px 14px 19px 0px rgba(247,202,197,1);
+}
 
+#user-email{
+    font-weight: bold;
 }

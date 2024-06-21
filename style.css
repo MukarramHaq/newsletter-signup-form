@@ -92,7 +92,7 @@ h1{
 }
 
 label{
-    font-size: 0.625rem;
+    font-size: 0.7rem;
     font-weight: 700;
 }
 
@@ -129,4 +129,20 @@ button:hover{
     -moz-box-shadow: 0px 14px 19px 0px rgba(247,202,197,1);
     box-shadow: 0px 14px 19px 0px rgba(247,202,197,1);
 
+}
+
+.error {
+	border-color: hsl(349, 80%, 65%);
+    background-color:hsla(349, 80%, 65%,0.3);
+
+}
+
+.error-message {
+	color: hsl(0, 100%, 50%);
+    /* border: 1px solid black; */
+    font-size: 0.7rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: end;
+	/* margin-bottom: 1em; */
 }
